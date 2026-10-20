@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PyCharm and Spades game save file
+.idea/
+spades_save.json
