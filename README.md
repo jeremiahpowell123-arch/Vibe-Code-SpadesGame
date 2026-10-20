@@ -1,6 +1,3 @@
-# Vibe-Code-SpadesGame
-Single-player Spades in Python and pygame, with smart computer players, Nil bids, 10 card styles and match history.
-
 # Spades
 
 A desktop Spades card game written in Python with [pygame-ce](https://github.com/pygame-community/pygame-ce). You and a computer partner (North) play against two computer opponents (West and East) on a green felt table, with a main menu, adjustable difficulty, 250- or 500-point matches, ten card styles, and a scrollable history of every round you have played.
@@ -35,8 +32,8 @@ I recommend `pygame-ce` rather than the original `pygame` package. On a very new
 ### Install and run
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/jeremiahpowell123-arch/Vibe-Code-SpadesGame.git
+cd Vibe-Code-SpadesGame
 
 python3 -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
